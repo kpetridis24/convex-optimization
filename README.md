@@ -13,3 +13,9 @@ The methods solving the minimum approximation problem for multi-variable functio
 - Levenberg-Marquardt Method
 
 For method-related parameter calculation, the Armijo rule was used as well.
+
+The third project 'optimizationWithRestrictions' addresses the problem of minimum approximation in multivariable functions
+with added restrictions to the initial problem. The algorithm used is a modified version of the 
+- Steepest Descent
+
+But this time using projection Theorems that enables us to remain inside the rerstricted set of values.
